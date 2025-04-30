@@ -73,7 +73,7 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 - Summary stats (AOV, fulfillment counts)
 
 🔍 Insight: the data reveals key insights into order fulfillment efficiency, payment behavior, and customer purchase trends, enabling informed decision-making to optimize operations and revenue.
-📄 Query: [`04_order_details_report.sql`](SQL/04_order_details_report.sql)
+📄 Query: [`04_order_details_report.sql`](SQL/order_details_report.sql)
 
 ---
 
