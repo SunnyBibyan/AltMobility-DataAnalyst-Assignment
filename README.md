@@ -1,5 +1,5 @@
-# AltMobility-DataAnalyst-Assignment
-# Alt Mobility Data Analytics Internship Assignment 🚀
+
+# Alt Mobility-Data-Analytics-Assignment 🚀
 
 This repository contains the SQL-based data analysis and visualizations for Alt Mobility's Data Analyst Intern assessment. The analysis is based on two datasets: `customer_orders.csv` and `payments.csv`.
 
