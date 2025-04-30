@@ -87,14 +87,14 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 
 
 
-📊 Visualization: Designed in [Tool: Tableau / Power BI / Google Data Studio]
+📊 Visualization: Designed in [Tool:Power BI]
 
 ---
 
 ## 🔧 Tools Used
 
 - MySQL
-- Power BI / Tableau (for visualization)
+- Power BI(for visualization)
 - GitHub for version control
 
 ---
@@ -104,7 +104,7 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 **Name:** *Sunny Bibyan*  
 **Role:** Data Analyst Candidate  
 **Contact:** *sunnykumar6121997@gmail.com*  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
+**GitHub:** [github.com/SunnyBibyan](https://github.com/SunnyBibyan)
 
 ---
 
