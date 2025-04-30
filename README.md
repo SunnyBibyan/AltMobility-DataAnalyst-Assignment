@@ -85,7 +85,8 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 - Cohort-based retention matrix using first purchase month
 - Repeat purchase behavior tracked month over month
 
-
+![Visualization1](Visualizations/%20Customer%20Retention%20Analysis1.png)
+![Visualization2](Visualizations/%20Customer%20Retention%20Analysis1.png)
 
 📊 Visualization: Designed in [Tool:Power BI]
 
