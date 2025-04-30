@@ -108,7 +108,7 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 ## 📬 Author
 
 **Name:** *Sunny Bibyan*  
-**Role:** Data Analyst Candidate  
+**Role:** Data Analyst  
 **Contact:** *sunnykumar6121997@gmail.com*  
 **GitHub:** [github.com/SunnyBibyan](https://github.com/SunnyBibyan)
 
