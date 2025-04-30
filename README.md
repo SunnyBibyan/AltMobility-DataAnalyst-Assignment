@@ -27,7 +27,7 @@ This repository contains the SQL-based data analysis and visualizations for Alt 
 🔍 Insight: Out of 15,000 total orders 33.8% (5,069) are in pending status, 33.7% (5,057) have been delivered, and 32.5% (4,874) have been shipped. This reflects a balanced distribution across the fulfillment stages, with a slight backlog in pending orders. 
 The near-equal split indicates active logistics operations but suggests potential areas for optimization in order processing and fulfillment efficiency.
 
-📄 Query: [`01_order_sales_analysis.sql`](SQL/order_sales_analysis.sql)
+📄 Query: [`order_sales_analysis.sql`](SQL/order_sales_analysis.sql)
 
 ---
 
@@ -42,7 +42,7 @@ The near-equal split indicates active logistics operations but suggests potentia
 🔍 Insight: One-Time Buyers usually form the majority — good for growth, but retention is key. Frequent Buyers, though smaller in number, often contribute disproportionately to total revenue.
 You can use this segmentation for targeted marketing: Loyalty programs for Frequent Buyers, Incentives for Occasional Buyers to become loyal, Re-engagement campaigns for One-Time Buyers
 
-📄 Query: [`02_customer_analysis.sql`](SQL/customer_analysis.sql)
+📄 Query: [`customer_analysis.sql`](SQL/customer_analysis.sql)
 
 ---
 
@@ -59,7 +59,7 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 🔍 Insight: 📊 Keep an eye on the monthly trend data once it’s available — that could reveal when and possibly why issues are peaking.
 
 
-📄 Query: [`03_payment_status_analysis.sql`](SQL/payment_status_analysis.sql)
+📄 Query: [`payment_status_analysis.sql`](SQL/payment_status_analysis.sql)
 
 ---
 
@@ -73,7 +73,7 @@ The differences aren’t huge, but they signal areas for improvement and priorit
 - Summary stats (AOV, fulfillment counts)
 
 🔍 Insight: the data reveals key insights into order fulfillment efficiency, payment behavior, and customer purchase trends, enabling informed decision-making to optimize operations and revenue.
-📄 Query: [`04_order_details_report.sql`](SQL/order_details_report.sql)
+📄 Query: [`order_details_report.sql`](SQL/order_details_report.sql)
 
 ---
 
